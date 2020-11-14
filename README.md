@@ -18,6 +18,9 @@ Edit ```config.json``` to configure the program. The username should be your Twi
     "channels": ["twitch", "twitchpresents"]
 }
 ```
+#### Starting the program
+Twitch-irc can be started using:
+```node main.js```
 
 ### Current features:
 - Multi-channel chat logging
