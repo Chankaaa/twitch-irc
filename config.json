@@ -1,0 +1,5 @@
+{
+    "username": "your username here",
+    "password": "oath token here",
+    "channels": ["twitch", "twitchpresents"]
+}
